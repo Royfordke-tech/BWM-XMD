@@ -1,1 +1,4 @@
-
+https://github.com/Royfordke-tech/Royfordke.git
+git remote add origin https://github.com/Royfordke-tech/Royfordke.git
+git branch -M main
+git push -u origin main
